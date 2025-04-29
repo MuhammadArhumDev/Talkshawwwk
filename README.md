@@ -1,4 +1,3 @@
-````markdown
 # ✨ Full Stack Realtime Chat App
 
 > A modern, scalable, and secure real-time chat application built with the MERN stack, Socket.IO, TailwindCSS, and optimized state management using Zustand.
@@ -58,11 +57,11 @@
 ## ⚙️ Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/MuhammadArhumDev/Talkshawwwk.git
-   cd realtime-chat-app
+   cd Talkshawwwk
    ```
-````
 
 2. **Install dependencies**
    ```bash
@@ -177,7 +176,3 @@ This project is licensed under the MIT License.
 ---
 
 © 2025 Your Name. All rights reserved.
-
-```
-
-```
